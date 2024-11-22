@@ -1,0 +1,9 @@
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/CMakeFiles/appmodules.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/CMakeFiles/edit_cache.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/CMakeFiles/rebuild_cache.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir

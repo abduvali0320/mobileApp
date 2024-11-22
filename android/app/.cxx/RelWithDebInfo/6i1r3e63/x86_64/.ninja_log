@@ -1,0 +1,10 @@
+# ninja log v5
+2	26	1732277254845241854	build.ninja	e98daa68592c8fd6
+1	1412	1732206929117375275	CMakeFiles/appmodules.dir/OnLoad.cpp.o	6ce2752d58b1deab
+1412	1435	1732206929146373266	/home/abduvali/My folder/Projects/React native/module_mobile/android/app/build/intermediates/cxx/RelWithDebInfo/6i1r3e63/obj/x86_64/libappmodules.so	636fda41029706a1
+0	3	0	/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86_64/CMakeFiles/cmake.verify_globs	d39713c67b2e9432
+0	3	0	clean	aa41c493ab86fc55
+0	1198	1732206928905389959	CMakeFiles/appmodules.dir/home/abduvali/My_folder/Projects/React_native/module_mobile/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	e8f1b1ea8ee5a242
+3	34	1732277254845241854	build.ninja	e98daa68592c8fd6
+0	2	0	/home/abduvali/My folder/Projects/React native/module_mobile/android/app/.cxx/RelWithDebInfo/6i1r3e63/x86_64/CMakeFiles/cmake.verify_globs	d39713c67b2e9432
+0	2	0	clean	aa41c493ab86fc55
